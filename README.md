@@ -1,12 +1,12 @@
-#1980s Arcade Game
+# 1980s Arcade Game
 
 Welcome to our small arcade game inspired by the arcade machines of the 1980s. This game is simple and fun, and it will remind you of the retro games from your childhood.
 
-##Installation
+## Installation
 
 After downloading the executable file, double-click the file to start the installation and run the program.
 
-##How to Play
+## How to Play
 
 - Use the left and right arrow keys on the main keyboard to move your spaceship.
 
@@ -14,7 +14,7 @@ After downloading the executable file, double-click the file to start the instal
 
 Have fun playing this retro game!
 
-##Crédits
+## Crédits
 
 - Developer: Gaëtan Sencie
 
@@ -22,7 +22,7 @@ Have fun playing this retro game!
 
 ---
 
-##Contact
+## Contact
 
 For any questions or additional assistance, you can contact me at the email address: app.sencie@gmail.com.
 
