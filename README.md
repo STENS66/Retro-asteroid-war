@@ -8,9 +8,17 @@
 
 Welcome to our small arcade game inspired by the arcade machines of the 1980s. This game is simple and fun, and it will remind you of the retro games from your childhood.
 
+## Preview
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Retro-asteroid-war/blob/main/images/game.png?raw=true)
+
 ## Installation
 
-After downloading the executable file, double-click the file to start the installation and run the program.
+Executable (Windows 10/11 - 64 bits) 
+Download the latest version of the Retro-asteroid-war.exe executable from the Releases section of this repository. 
+Double-click the downloaded file to launch the game. 
+
+You can download the latest version of the application here: https://github.com/STENS66/Retro-asteroid-war/releases
 
 ## How to Play
 
